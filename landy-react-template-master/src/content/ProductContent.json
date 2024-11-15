@@ -1,0 +1,10 @@
+{
+  "title": "Our Team",
+  "text": "We are a group of CS Master's students studing Human-Computer interaction.",
+  "section": [
+    { "title": "ANDREEA JITARU", "content": "", "icon": "andreea.png" },
+    { "title": "Zoe Kaputa", "content": "", "icon": "zoe.png" },
+    { "title": "MIRANDA LIU", "content": "", "icon": "miranda.png" },
+    { "title": "KAIYU REN", "content": "", "icon": "kaiyu.png" }
+  ]
+}
