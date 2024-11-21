@@ -4,6 +4,7 @@ import { withTranslation } from "react-i18next";
 
 import { Button } from "../../common/Button";
 import { SvgIcon } from "../../common/SvgIcon";
+import { Title } from "../../components/ContentBlock/styles";
 import {
   ContentSection,
   Content,
@@ -13,8 +14,8 @@ import {
   MinPara,
   StyledRow,
   StyledA,
-  PresRow,
   ButtonWrapper,
+  PresRow,
 } from "./styles";
 
 import AssignmentsContent from "../../content/Assignments.json";
@@ -39,7 +40,7 @@ const Assignments = ({ id }: any) => {
           direction={direction}
         >
           <ContentWrapper>
-            <h6>{"Process Presentations"}</h6>
+            <Title>{"Process Presentations"}</Title>
             <ServiceWrapper>
               <Row justify="space-between">
                 {typeof AssignmentsContent === "object" &&

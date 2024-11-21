@@ -42,7 +42,7 @@ export const ServiceWrapper = styled("div")`
 
 export const StyledA = styled("a")`
   color: #464646;
-  font-family: "Motiva Sans Light", sans-serif;
+  font-family: "Inter";
 
   &:hover,
   &:active,
@@ -53,12 +53,12 @@ export const StyledA = styled("a")`
 
 export const MinTitle = styled("h6")`
   font-size: 15px;
-  line-height: 1rem;
-  width: 500px;
-  padding: 0.5rem 0;
+  line-height: 1.2rem;
+  width: 600px;
+  padding: 0.3rem 0;
   text-transform: uppercase;
   color: #000;
-  font-family: "Motiva Sans Light", sans-serif;
+  font-family: "Inter";
 `;
 
 export const MinPara = styled("p")`
