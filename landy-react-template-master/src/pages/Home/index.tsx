@@ -4,6 +4,7 @@ import AboutContent from "../../content/AboutContent.json";
 import MissionContent from "../../content/MissionContent.json";
 import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
+import DemoContent from "../../content/DemoContent.json";
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const Container = lazy(() => import("../../common/Container"));
@@ -28,6 +29,25 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         button={AboutContent.button}
+        video={
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/NDA0wQWQrPg?si=pZdLPUHDIhGPxaKj"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
+          ></iframe>
+        }
+        id="about"
+      />
+      <ContentBlock
+        direction="right"
+        title={DemoContent.title}
+        content=""
+        button={DemoContent.button}
         video={
           <iframe
             width="560"

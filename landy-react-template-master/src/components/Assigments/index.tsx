@@ -19,7 +19,7 @@ import {
 
 import AssignmentsContent from "../../content/Assignments.json";
 
-const Assignemnts = ({ id }: any) => {
+const Assignments = ({ id }: any) => {
   const scrollTo = (id: string) => {
     const element = document.getElementById(id) as HTMLDivElement;
     element.scrollIntoView({
@@ -66,6 +66,16 @@ const Assignemnts = ({ id }: any) => {
                             README
                           </StyledA>
                         )}
+                        {i.link && (
+                          <StyledA href={i.link} target="_blank">
+                            LINK
+                          </StyledA>
+                        )}
+                        {i.tk && (
+                          <StyledA href={i.tk} target="_blank">
+                            PLACEHOLDER
+                          </StyledA>
+                        )}
                       </PresRow>
                     );
                   })}
@@ -78,4 +88,4 @@ const Assignemnts = ({ id }: any) => {
   );
 };
 
-export default withTranslation()(Assignemnts);
+export default withTranslation()(Assignments);

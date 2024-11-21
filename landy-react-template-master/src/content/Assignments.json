@@ -22,23 +22,27 @@
   {
     "title": "A6: Med-Fi Prototype",
     "link": "https://www.figma.com/proto/lJ26sc4QclZo4s5BcQF0P2/Hatcher-Prototypes?node-id=93-5516&node-type=canvas&t=sfjBSs0TqhpZsnBF-0&scaling=scale-down&content-scaling=fixed&page-id=93%3A251&starting-point-node-id=93%3A5516",
-    "readme": "https://drive.google.com/file/d/1T0fsNUPBG8Jg3-w_fffSDTuLuVFQGo4p/view?usp=drive_link"
+    "readme": "https://drive.google.com/file/d/1T0fsNUPBG8Jg3-w_fffSDTuLuVFQGo4p/view?usp=drive_link",
+    "pptx": "https://www.canva.com/design/DAGVKxKEIy0/Hq25FhehYt5LfbC3IdhpSQ/edit?utm_content=DAGVKxKEIy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   },
   {
     "title": "A8: High-Fi Prototype",
-    "pdf": "TODO: add PDF"
+    "link": "TODO",
+    "readme": "TODO",
+    "pptx": "TODO"
   },
   {
     "title": "A9: Heuristic Evaluation Synthesis",
-    "pdf": "https://docs.google.com/spreadsheets/d/1l0-hPZTQtyfaFeY8sDnH1z-IE4eCyD6CWJAB-qgvUJs/edit?usp=sharing"
+    "pdf": "https://drive.google.com/file/d/1er58uBEsnWZWVhT_8KkyuNk2JfWbTXpW/view?usp=sharing",
+    "link": "https://docs.google.com/spreadsheets/d/16A5GYFmdx6my8Gmk7WWniNvR4d0khgjj/edit?usp=sharing&ouid=106665827127252018745&rtpof=true&sd=true"
   },
   {
     "title": "A10: Poster, Pitch, & Demo Video",
-    "pdf": "TODO: add PDF"
+    "tk": "TODO"
   },
   {
     "title": "A11: Final Report",
-    "pdf": "TODO: add PDF"
+    "tk": "TODO"
   },
   {}
 ]
