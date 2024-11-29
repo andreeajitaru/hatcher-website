@@ -1,48 +1,58 @@
 [
   {
     "title": "A1: Needfinding",
-    "pdf": "https://drive.google.com/uc?export=download&id=1yONawJjvnOkP-DIwvV_WA-CulyPeOrhj",
-    "pptx": "https://drive.google.com/uc?export=download&id=1UMXgCIHA4JTzcrOKo63L_Y1BcDuKLQGw"
+    "pdf": "files/a1/assign1.pdf",
+    "pptx": "files/a1/assign1.pptx"
   },
   {
     "title": "A2: Additional Needfinding, POVs, HMWs, Brainstorming & Experience Prototypes",
-    "pdf": "https://drive.google.com/uc?export=download&id=1yZWJAl57KNX1ZPC_KjpXGmkbv9_cPqF0",
-    "pptx": "https://drive.google.com/uc?export=download&id=1zpBochoEoCGidUCYFq8Fmb8f0noylprp"
+    "pdf": "files/a2/Presentation 2.pdf",
+    "pptx": "files/a2/Presentation.pptx"
   },
   {
     "title": "A4: Concept Video",
-    "pdf": "https://drive.google.com/uc?export=download&id=1WIdbZ-3n5BoUEEo0wmp4LjVBNGxjqjnL",
-    "pptx": "https://drive.google.com/uc?export=download&id=1tRpFu4t2geXNG9ZovbNrp5ooDfQCBO8J"
+    "pdf": "files/a4/presentation.pdf",
+    "pptx": "files/a4/presentation.pptx"
   },
   {
     "title": "A5: Sketching, Low-Fi Prototyping & Usability Testing",
-    "pdf": "https://drive.google.com/uc?export=download&id=1q1Cn3vkOTFamjQQjstgTL8QfyG2cFUun",
-    "pptx": "https://drive.google.com/uc?export=download&id=1CiClVxGybGoARdzzb9KkJ7dU5jT-we7b"
+    "pdf": "files/a5/Presentation 5.pdf",
+    "pptx": "files/a5/Presentation 5.pptx"
   },
   {
     "title": "A6: Med-Fi Prototype",
     "link": "https://www.figma.com/proto/lJ26sc4QclZo4s5BcQF0P2/Hatcher-Prototypes?node-id=93-5516&node-type=canvas&t=sfjBSs0TqhpZsnBF-0&scaling=scale-down&content-scaling=fixed&page-id=93%3A251&starting-point-node-id=93%3A5516",
-    "readme": "https://drive.google.com/file/d/1T0fsNUPBG8Jg3-w_fffSDTuLuVFQGo4p/view?usp=drive_link",
-    "pptx": "https://www.canva.com/design/DAGVKxKEIy0/Hq25FhehYt5LfbC3IdhpSQ/edit?utm_content=DAGVKxKEIy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    "readme": "files/a6/Hatcher README.pdf",
+    "pdf": "files/a6/Presentation 6.pdf",
+    "pptx": "files/a6/Presentation 6.pptx"
   },
   {
     "title": "A8: High-Fi Prototype",
     "link": "TODO",
     "readme": "TODO",
+    "pdf": "TODO",
     "pptx": "TODO"
   },
   {
     "title": "A9: Heuristic Evaluation Synthesis",
-    "pdf": "https://drive.google.com/file/d/1er58uBEsnWZWVhT_8KkyuNk2JfWbTXpW/view?usp=sharing",
-    "link": "https://docs.google.com/spreadsheets/d/16A5GYFmdx6my8Gmk7WWniNvR4d0khgjj/edit?usp=sharing&ouid=106665827127252018745&rtpof=true&sd=true"
+    "pdf": "files/a9/eval.pdf",
+    "xlsx": "files/19/eval.xlsx"
   },
   {
-    "title": "A10: Poster, Pitch, & Demo Video",
-    "tk": "TODO"
+    "title": "A10: Poster",
+    "link": "TODO",
+    "pdf": "TODO"
+  },
+  {
+    "title": "A10: Pitch",
+    "pdf": "TODO",
+    "pptx": "TODO",
+    "script": "TODO"
   },
   {
     "title": "A11: Final Report",
-    "tk": "TODO"
+    "word": "TODO",
+    "pdf": "TODO"
   },
   {}
 ]

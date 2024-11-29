@@ -46,11 +46,7 @@ const Assignments = ({ id }: any) => {
                 {typeof AssignmentsContent === "object" &&
                   AssignmentsContent.map((i) => {
                     return (
-                      <PresRow
-                        key={i.title}
-                        justify="space-between"
-                        align="middle"
-                      >
+                      <PresRow key={i.title} justify="start" align="middle">
                         <MinTitle>{i.title}</MinTitle>
                         {i.pdf && (
                           <StyledA href={i.pdf} target="_blank">
@@ -72,9 +68,19 @@ const Assignments = ({ id }: any) => {
                             LINK
                           </StyledA>
                         )}
-                        {i.tk && (
-                          <StyledA href={i.tk} target="_blank">
-                            PLACEHOLDER
+                        {i.word && (
+                          <StyledA href={i.word} target="_blank">
+                            WORD
+                          </StyledA>
+                        )}
+                        {i.xlsx && (
+                          <StyledA href={i.xlsx} target="_blank">
+                            XLSX
+                          </StyledA>
+                        )}
+                        {i.script && (
+                          <StyledA href={i.word} target="_blank">
+                            SCRIPT
                           </StyledA>
                         )}
                       </PresRow>

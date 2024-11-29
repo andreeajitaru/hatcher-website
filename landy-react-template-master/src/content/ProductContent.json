@@ -2,9 +2,25 @@
   "title": "Our Team",
   "text": "We are a group of MSCS students studing Human-Computer Interaction.",
   "section": [
-    { "title": "ANDREEA JITARU", "content": "", "icon": "andreea.png" },
-    { "title": "Zoe Kaputa", "content": "", "icon": "zoe.png" },
-    { "title": "MIRANDA LIU", "content": "", "icon": "miranda.png" },
-    { "title": "KAIYU REN", "content": "", "icon": "kaiyu.png" }
+    {
+      "title": "ANDREEA J",
+      "content": "UX Designer, Developer",
+      "icon": "andreea.png"
+    },
+    {
+      "title": "Zoe K",
+      "content": "UX Designer, Developer",
+      "icon": "zoe.png"
+    },
+    {
+      "title": "MIRANDA L",
+      "content": "UX Designer, Developer",
+      "icon": "miranda.png"
+    },
+    {
+      "title": "KAIYU R",
+      "content": "UX Designer, Developer",
+      "icon": "kaiyu.png"
+    }
   ]
 }
