@@ -79,7 +79,7 @@ const Assignments = ({ id }: any) => {
                           </StyledA>
                         )}
                         {i.script && (
-                          <StyledA href={i.word} target="_blank">
+                          <StyledA href={i.script} target="_blank">
                             SCRIPT
                           </StyledA>
                         )}

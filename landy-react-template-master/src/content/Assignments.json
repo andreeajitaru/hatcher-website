@@ -28,10 +28,10 @@
   },
   {
     "title": "A8: High-Fi Prototype",
-    "link": "TODO",
-    "readme": "TODO",
-    "pdf": "TODO",
-    "pptx": "TODO"
+    "link": "https://github.com/KaiyuRen-2001/Hatcher/",
+    "readme": "files/a8/README.pdf",
+    "pdf": "files/a8/A8 Presentation.pdf",
+    "pptx": "files/a8/A8 Presentation.pptx"
   },
   {
     "title": "A9: Heuristic Evaluation Synthesis",
@@ -40,14 +40,14 @@
   },
   {
     "title": "A10: Poster",
-    "link": "TODO",
-    "pdf": "TODO"
+    "link": "https://www.figma.com/design/lJ26sc4QclZo4s5BcQF0P2/Hatcher-Prototypes?node-id=734-5552&m=dev&t=BxsipY2lCPRfkll6-1",
+    "pdf": "files/a10/poster-final.pdf"
   },
   {
     "title": "A10: Pitch",
-    "pdf": "TODO",
-    "pptx": "TODO",
-    "script": "TODO"
+    "pdf": "files/a10/slide.pdf",
+    "pptx": "files/a10/slide.pptx",
+    "script": "files/a10/pitch-script.pdf"
   },
   {
     "title": "A11: Final Report",
